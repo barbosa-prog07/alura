@@ -1,0 +1,41 @@
+.topo{text-align: center;
+background-color: brown;
+}
+
+.geral{background-color: rgb(11, 125, 255);
+}
+.top5{justify-content: center;
+    border-radius: 500px;
+    margin-left: 50px;
+
+}
+.rec2{text-align: center;}
+
+.top5{border-radius: 500px;}
+.cards{background-color: rgb(11, 125, 255);
+display: flex;
+text-align: center;
+display: flex;}
+.cards>p{text-align: center;}
+.netflix{background-color: rgb(0, 0, 0);
+margin-left: 50px;
+border-radius: 25px;}
+.netflix>img{border-radius: 25px;}
+.netflix>h1{background-color: brown;}
+.HBO{margin-left: 50px;
+background-color: rgb(5, 12, 110);
+border-radius: 25px;}
+.HBO>img{border-radius: 25px;}
+.Prime{background-color: blue;
+    margin-left: 50px;
+    border-radius: 25px;
+}
+.Prime>img{border-radius: 25px;} 
+.disney{background-color: blue;
+margin-left: 50px;
+border-radius: 25px;} 
+.disney>img{border-radius: 25px;}
+.Platformas{text-align: center;}
+.topo>h2{background-color: rgb(7, 236, 236);}
+.rec2>h1{background-color: rgb(7, 236, 236);}
+.Platformas>h1{background-color: rgb(7, 236, 236);}
